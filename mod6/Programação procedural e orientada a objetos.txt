@@ -1,0 +1,5 @@
+Na Programação Procedural o código  é estruturado de maneira linear, com ênfase na sequência de execução. 
+
+A Programação Orientada a Objetos organiza o código em objetos, ou seja, blocos que combinam dados e operações entre si mas que podem ser divididas de todo o codigo. 
+
+

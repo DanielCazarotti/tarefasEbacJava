@@ -1,0 +1,22 @@
+algoritmo acordar
+
+inicio
+   escreva("A pessoa está dormindo.")
+   sono <- "Sim"
+
+   se sono = "Sim" entao
+      escreva("Eu acordo.")
+      escreva("Abro o olho")
+      escreva("Tiro o edredom")
+      escreva("Levanto as costas da cama")
+      escreva("Espreguiço")
+      escreva("Viro para o lado esquerdo")
+      escreva("Sento na cama")
+      escreva("Calço os chinelos")
+      escreva("Me levanto")
+   senao
+      escreva("A pessoa já está acordada.")
+   fimse
+
+   escreva("Fim do algoritmo.")
+fim
